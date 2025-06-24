@@ -1,3 +1,7 @@
+# Portfolio Website 
+This website was completely vibe-coded using TempoLabs with code clean-up and minor changes done by myself. I created it in under 10 prompts to experiment with a basic vibe-coding exercise and create something useful for myself. For any design choices or elements that TempoLabs AI tool didn't come up with itself, I specified what I wanted through natural language prompts. Due to the nature of how this website was built, it's easy to edit, add, or delete experiences/content. Below is the documentation that came with the files when I pushed to GitHub. 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
